@@ -1,0 +1,120 @@
+// Color Variables
+$white: #fff;
+$black: #000;
+$darkblue: #112a46;
+$lightblue: #0077FF;
+$brightblue: #90e0ef;
+
+body {
+    font-family: "profile-pro";
+}
+
+// Navbar
+.navbar-logo {
+  width: 40px; 
+  height: auto;
+  margin-right: 10px;
+}
+
+// Hero Section
+.hero {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 90, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%
+    ), url('../img/Office-Background.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+  height: 75vh;
+  h1, p {
+    color: white;
+  }
+  .index-p {
+    max-width: 100vh;
+  }
+}
+
+.hero-content {
+  color: $white; 
+}
+// Main Content Section
+.main-content {
+  padding: 100px 0;
+}
+.pfp-img {
+  max-width: 350px;
+  margin: 15px;
+  height: auto;
+  border: 2px solid $black;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.edu-img {
+  max-width: 94%;
+  margin: 15px;
+  padding: 10px;
+  height: auto;
+  border: 2px solid $black;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+//About Page
+.office-img {
+    border: 2px solid $black;
+    max-width: 450px;
+    min-width: 90px;
+    height: auto;
+}
+//Services Page
+.packages-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.package {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    width: 30%;
+    background-color: #f5f5f5; /* Light gray background color */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Drop shadow */
+}
+
+.package h3 {
+    margin-top: 0;
+}
+
+.package h4 {
+    margin-bottom: 20px;
+}
+.program-section {
+  img {
+    max-width: 100px;
+  }
+}
+// Footer Section
+.footer {
+  background-color: $darkblue;
+  color: $white;
+  padding: 20px 0;
+  text-align: center;
+  .email-link {
+    font-size: 20px;
+    text-decoration: none;
+  }
+}
+
+.social-icons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  li {
+    display: inline-block;
+    margin-right: 10px;
+    a {
+      color: $lightblue;
+      &:hover {
+        color: $brightblue;
+      }
+    }
+  }
+}

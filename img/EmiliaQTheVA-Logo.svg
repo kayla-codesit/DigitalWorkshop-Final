@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:none;}
+	.st1{fill:none;stroke:#000000;stroke-width:3.9696;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{stroke:#000000;stroke-width:3.9696;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{stroke:#000000;stroke-width:5.7803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:5.7803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:5.7803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<path id="SVGID_x5F_1_x5F_" class="st0" d="M661,400c0,143.04-115.96,259-259,259S143,543.04,143,400s115.96-259,259-259
+		S661,256.96,661,400z"/>
+	<text>	<textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="166.8293%">
+<tspan  style="font-family:'MillerBanner-Roman'; font-size:72px;">EMILIAQ • THE VA</tspan>	</textPath>
+</text>
+	<path class="st1" d="M143,378.5C143,524.58,259.63,643,403.5,643S664,524.58,664,378.5"/>
+	<circle class="st2" cx="146" cy="353" r="3"/>
+	<circle class="st2" cx="663.61" cy="353.24" r="3"/>
+</g>
+<g id="Layer_2">
+	<g id="Layer_3">
+	</g>
+	<g>
+		<polygon class="st2" points="279.14,547.92 260.61,545 263.87,530.85 249,527.75 249,513.6 239.77,517.51 226.11,564.93 		"/>
+		<g>
+			
+				<rect x="264.13" y="318.42" transform="matrix(0.6965 -0.7176 0.7176 0.6965 -148.5822 406.7779)" class="st3" width="284.83" height="121.2"/>
+			<polygon class="st4" points="226.11,564.93 348.73,525.6 261.76,441.18 			"/>
+		</g>
+		<line class="st5" x1="279.61" y1="443" x2="466.11" y2="256.5"/>
+		<line class="st5" x1="340.45" y1="503.59" x2="526.95" y2="317.09"/>
+		<line class="st5" x1="311.45" y1="474.59" x2="502.61" y2="283"/>
+	</g>
+</g>
+</svg>

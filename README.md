@@ -1,2 +1,2 @@
 # DigitalWorkshop-Final
- Mock website for bakery
+Mock Website for a Virtual Assistant based in Oklahoma City, OK. Business is called EmiliaQTheVA. 
