@@ -80,6 +80,11 @@ body {
   max-width: 100px;
 }
 
+.testimonial-block img {
+  max-width: 150px;
+  border: 2px solid #000;
+}
+
 .footer {
   background-color: #112a46;
   color: #fff;

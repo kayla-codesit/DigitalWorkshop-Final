@@ -91,6 +91,11 @@ body {
     max-width: 100px;
   }
 }
+//Testimonial Section
+.testimonial-block img {
+  max-width: 150px;
+  border: 2px solid $black;
+}
 // Footer Section
 .footer {
   background-color: $darkblue;
